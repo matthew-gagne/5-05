@@ -1,6 +1,6 @@
 let number = 0
 
-document.getElementById('button').addEventListener('click',addition)
+document.getElementById('button').addEventListener('click', addition)
 
 function addition () {
   number = document.getElementById('text').value
